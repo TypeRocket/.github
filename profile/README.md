@@ -1,11 +1,5 @@
 <p align="center"><a href="https://typerocket.com" target="_blank"><img src="https://raw.githubusercontent.com/TypeRocket/art/main/wordmark/typerocket.svg" width="320"></a></p>
 
-<p align="center">
-<a href="https://packagist.org/packages/typerocket/core"><img src="https://img.shields.io/packagist/dt/typerocket/core" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/typerocket/core"><img src="https://img.shields.io/packagist/v/typerocket/core" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/typerocket/core"><img src="https://img.shields.io/packagist/l/typerocket/core" alt="License"></a>
-</p>
-
 ## About TypeRocket
 
 TypeRocket is a WordPress framework that beautifully joins refined UI elements and modern programming architecture together, creating a cohesive developer experience. By bringing TypeRocket into your workflow you can save countless hours of development and painlessly craft WordPress applications with: 
